@@ -1,0 +1,26 @@
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+
+
+}
+
+.todo {
+  width: 100%;
+  padding: 10px  ;
+  background-color: dodgerblue;
+  border-radius: 10px;
+  display: flex;
+
+  align-items: center;
+}
+
+
+
+.todo button {
+  border-radius: 50%;
+  background-color: white;
+}
